@@ -25,12 +25,54 @@
     url(../fonts/Roboto-Regular.svg#samsung-one-700) format("svg");
     font-weight:400; font-style:normal
 }
+@font-face{
+    font-family: Montserat-Regular;
+    src:url(../fonts/Montserrat-Regular.eot?#iefix) format("embedded-opentype"),
+    url(../fonts/Montserrat-Regular.otf) format("opentype"),
+    url(../fonts/Montserrat-Regular.woff) format("woff"),
+    url(../fonts/Montserrat-Regular.ttf) format("truetype"),
+    url(../fonts/Montserrat-Regular.svg#samsung-one-700) format("svg");
+    font-weight:400; font-style:normal
+}
 body {
-    font-family: samsung-one-400;
+    font-family: Montserat-Regular;
     font-size: 15px;
     background:#fff;
     color: #222;
     line-height: 1.42857143;
     width: 100%;
     overflow: hidden;
+}
+
+/*======== header ==========*/
+#header{
+    background: #eee7cb;
+    border-bottom: 12px solid #cb4a2a;
+    padding: 50px 0;
+}
+.hot-search{
+    display: flex;
+    float: right;
+}
+.hotline{
+    margin-right: 15px;
+    font-size: 19px;
+    color: #cc4f2f;
+}
+.hotline span{
+    font-weight: bold;
+    color: #c94a29;
+}
+.search{
+    position: relative;
+}
+.search input{
+    border-radius: 20px;
+
+}
+.search .icon-search{
+    background: url("http://localhost/project.vn/khangmaunhi/public/assets/img/icon-search.png") no-repeat;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
 }
