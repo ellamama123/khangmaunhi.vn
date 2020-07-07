@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fa18eb2-3331-406c-8bef-10e471bad5b6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Modules/Statics/Views/block/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Modules/Statics/Views/block/footer.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Modules/Statics/Views/block/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Modules/Statics/Views/block/header.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/frontend/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/frontend/css/site.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/views/494af4a6133a7ac49314f7a62a5d008902cf6ddf.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/views/494af4a6133a7ac49314f7a62a5d008902cf6ddf.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/views/b9c74f16cd4690bc43759dee8651b3c4934c1ddf.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/views/b9c74f16cd4690bc43759dee8651b3c4934c1ddf.php" afterDir="false" />
-    </list>
+    <list default="true" id="2fa18eb2-3331-406c-8bef-10e471bad5b6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
