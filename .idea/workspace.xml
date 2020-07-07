@@ -20,17 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fa18eb2-3331-406c-8bef-10e471bad5b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/assets/frontend/fonts/Montserrat-Regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/frontend/fonts/Montserrat-Regular.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/frontend/fonts/Montserrat-Regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/frontend/fonts/Montserrat-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/frontend/fonts/Montserrat-Regular.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_7_7_2020_9_30_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_7_7_2020_9_30_PM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Modules/Statics/Views/block/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Modules/Statics/Views/block/footer.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Modules/Statics/Views/block/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Modules/Statics/Views/block/header.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/assets/frontend/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/frontend/css/site.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/sessions/KxkNYMNMxgHFptCemGIv29UdTeqLPh72A3Y8WcSR" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/views/08e92ea34a64b637510333bdc4e654f31844b0e4.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/views/08e92ea34a64b637510333bdc4e654f31844b0e4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/views/494af4a6133a7ac49314f7a62a5d008902cf6ddf.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/views/494af4a6133a7ac49314f7a62a5d008902cf6ddf.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/framework/views/b9c74f16cd4690bc43759dee8651b3c4934c1ddf.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/views/b9c74f16cd4690bc43759dee8651b3c4934c1ddf.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +107,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/assets/frontend/fonts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../theme/Kmarket/index.html" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -348,10 +342,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593186744054" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1594132039998">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1594137345049">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594132039998" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594137345049" />
     <state x="673" y="334" key="NewPhpClassDialog" timestamp="1592124957617">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -380,9 +374,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593339299950" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1593192072159">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594137417609">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593192072159" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594137417609" />
   </component>
 </project>
