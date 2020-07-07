@@ -12,7 +12,5 @@ use App\Library\PHPDev\ThumbImg;
 	@include('Statics::block.footer')
 @stop
 @section('content')
-    <div class="container">
-            <h1>hello</h1>
-    </div>
+ 
 @stop
