@@ -1,0 +1,165 @@
+Index: .idea/php.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"PhpIncludePathManager\">\r\n    <include_path>\r\n      <path value=\"$PROJECT_DIR$/vendor/swiftmailer/swiftmailer\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/vlucas/phpdotenv\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/event-dispatcher\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-iconv\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/routing\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/css-selector\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/process\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/mime\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/service-contracts\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/debug\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/translation\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/translation-contracts\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/finder\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/console\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/http-kernel\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/var-dumper\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/http-foundation\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-ctype\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-php72\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-mbstring\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/error-handler\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-php73\" />\r\n    </include_path>\r\n  </component>\r\n  <component name=\"PhpProjectSharedConfiguration\" php_language_level=\"7.1\" />\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/php.xml	(revision ecc91c1991a50bb0e43d505009316b2d3c8a5400)
++++ .idea/php.xml	(date 1594132053984)
+@@ -27,6 +27,35 @@
+       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+       <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
++      <path value="$PROJECT_DIR$/vendor/composer" />
++      <path value="$PROJECT_DIR$/vendor/psr/container" />
++      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
++      <path value="$PROJECT_DIR$/vendor/psr/log" />
++      <path value="$PROJECT_DIR$/vendor/opis/closure" />
++      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
++      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
++      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
++      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
++      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
++      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
++      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
++      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
++      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
++      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
++      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
++      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
++      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-debugbar" />
++      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
++      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
++      <path value="$PROJECT_DIR$/vendor/maximebf/debugbar" />
++      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
++      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
++      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
++      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
++      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
++      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
++      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
++      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+     </include_path>
+   </component>
+   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"2fa18eb2-3331-406c-8bef-10e471bad5b6\" name=\"Default Changelist\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\" doNotAsk=\"true\" synchronizationState=\"SYNCHRONIZE\">\r\n    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>\r\n    <execution />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"PhpWorkspaceProjectConfiguration\">\r\n    <include_path>\r\n      <path value=\"$PROJECT_DIR$/vendor/swiftmailer/swiftmailer\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/vlucas/phpdotenv\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/event-dispatcher\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-iconv\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/routing\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/css-selector\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/process\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/mime\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/service-contracts\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/debug\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/translation\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/translation-contracts\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/finder\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/console\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/http-kernel\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/var-dumper\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/http-foundation\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-ctype\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-php72\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-mbstring\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/error-handler\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-php73\" />\r\n    </include_path>\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1aNNELb8R2n04d5rpXegCKahnvH\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"preferences.lookFeel\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\xampp\\htdocs\\project.vn\\hoanmydan\\storage\\logs\" />\r\n      <recent name=\"D:\\xampp\\htdocs\\project.vn\\hoanmydan\\app\\Modules\\Statics\\Views\" />\r\n      <recent name=\"D:\\xampp\\htdocs\\project.vn\\hoanmydan\\public\\assets\\frontend\\fonts\" />\r\n      <recent name=\"D:\\xampp\\htdocs\\project.vn\\hoanmydan\\app\\Modules\\Statics\\Controllers\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"2fa18eb2-3331-406c-8bef-10e471bad5b6\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1586571979732</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1586571979732</updated>\r\n      <workItem from=\"1586571983088\" duration=\"7368000\" />\r\n      <workItem from=\"1586597242636\" duration=\"4387000\" />\r\n      <workItem from=\"1586603395365\" duration=\"4132000\" />\r\n      <workItem from=\"1586654639142\" duration=\"7028000\" />\r\n      <workItem from=\"1586663945391\" duration=\"3224000\" />\r\n      <workItem from=\"1586680892227\" duration=\"12335000\" />\r\n      <workItem from=\"1586740204317\" duration=\"28997000\" />\r\n      <workItem from=\"1586791701731\" duration=\"4296000\" />\r\n      <workItem from=\"1586827080336\" duration=\"10157000\" />\r\n      <workItem from=\"1586847748931\" duration=\"19204000\" />\r\n      <workItem from=\"1586913215689\" duration=\"900000\" />\r\n      <workItem from=\"1586915789124\" duration=\"2567000\" />\r\n      <workItem from=\"1586919149686\" duration=\"4843000\" />\r\n      <workItem from=\"1586924269179\" duration=\"872000\" />\r\n      <workItem from=\"1586932577384\" duration=\"645000\" />\r\n      <workItem from=\"1586934562866\" duration=\"4693000\" />\r\n      <workItem from=\"1586999993178\" duration=\"2167000\" />\r\n      <workItem from=\"1587046417930\" duration=\"3162000\" />\r\n      <workItem from=\"1587130934321\" duration=\"6619000\" />\r\n      <workItem from=\"1587195024633\" duration=\"3933000\" />\r\n      <workItem from=\"1587207827525\" duration=\"3914000\" />\r\n      <workItem from=\"1587262282579\" duration=\"21939000\" />\r\n      <workItem from=\"1587345195193\" duration=\"18469000\" />\r\n      <workItem from=\"1587389595150\" duration=\"163000\" />\r\n      <workItem from=\"1587392228860\" duration=\"634000\" />\r\n      <workItem from=\"1587429433566\" duration=\"12586000\" />\r\n      <workItem from=\"1587454769783\" duration=\"11292000\" />\r\n      <workItem from=\"1587476897581\" duration=\"795000\" />\r\n      <workItem from=\"1587515243253\" duration=\"5229000\" />\r\n      <workItem from=\"1587554535653\" duration=\"451000\" />\r\n      <workItem from=\"1587564493083\" duration=\"424000\" />\r\n      <workItem from=\"1587569335077\" duration=\"85000\" />\r\n      <workItem from=\"1587569829477\" duration=\"1698000\" />\r\n      <workItem from=\"1587603101810\" duration=\"3425000\" />\r\n      <workItem from=\"1587628768239\" duration=\"2348000\" />\r\n      <workItem from=\"1587649867878\" duration=\"2111000\" />\r\n      <workItem from=\"1587781083640\" duration=\"949000\" />\r\n      <workItem from=\"1587810093031\" duration=\"206000\" />\r\n      <workItem from=\"1587816618855\" duration=\"1094000\" />\r\n      <workItem from=\"1587954413505\" duration=\"3652000\" />\r\n      <workItem from=\"1587983495103\" duration=\"10548000\" />\r\n      <workItem from=\"1588032345750\" duration=\"9940000\" />\r\n      <workItem from=\"1588060876665\" duration=\"503000\" />\r\n      <workItem from=\"1588061488521\" duration=\"6561000\" />\r\n      <workItem from=\"1588119221019\" duration=\"6192000\" />\r\n      <workItem from=\"1588212501270\" duration=\"121000\" />\r\n      <workItem from=\"1588213976196\" duration=\"2078000\" />\r\n      <workItem from=\"1588236525413\" duration=\"938000\" />\r\n      <workItem from=\"1588259422410\" duration=\"1751000\" />\r\n      <workItem from=\"1588296668521\" duration=\"7884000\" />\r\n      <workItem from=\"1588325874957\" duration=\"121000\" />\r\n      <workItem from=\"1588327874302\" duration=\"912000\" />\r\n      <workItem from=\"1588338326392\" duration=\"20000\" />\r\n      <workItem from=\"1588552420000\" duration=\"4237000\" />\r\n      <workItem from=\"1588640510235\" duration=\"9954000\" />\r\n      <workItem from=\"1588664896187\" duration=\"7528000\" />\r\n      <workItem from=\"1588674273284\" duration=\"914000\" />\r\n      <workItem from=\"1588727217627\" duration=\"17000\" />\r\n      <workItem from=\"1588727507114\" duration=\"5771000\" />\r\n      <workItem from=\"1588751221468\" duration=\"1704000\" />\r\n      <workItem from=\"1588771086733\" duration=\"346000\" />\r\n      <workItem from=\"1588780179097\" duration=\"1055000\" />\r\n      <workItem from=\"1588810416591\" duration=\"4742000\" />\r\n      <workItem from=\"1588842121037\" duration=\"1491000\" />\r\n      <workItem from=\"1588859788208\" duration=\"32000\" />\r\n      <workItem from=\"1589078346250\" duration=\"4038000\" />\r\n      <workItem from=\"1589097123283\" duration=\"6300000\" />\r\n      <workItem from=\"1589124741798\" duration=\"837000\" />\r\n      <workItem from=\"1589161131199\" duration=\"4544000\" />\r\n      <workItem from=\"1589168247534\" duration=\"2004000\" />\r\n      <workItem from=\"1589183314139\" duration=\"5465000\" />\r\n      <workItem from=\"1589204968605\" duration=\"2667000\" />\r\n      <workItem from=\"1589250613866\" duration=\"54000\" />\r\n      <workItem from=\"1589854817136\" duration=\"1196000\" />\r\n      <workItem from=\"1589876727863\" duration=\"278000\" />\r\n      <workItem from=\"1589897328248\" duration=\"3483000\" />\r\n      <workItem from=\"1589937012491\" duration=\"839000\" />\r\n      <workItem from=\"1589961903499\" duration=\"953000\" />\r\n      <workItem from=\"1590111295422\" duration=\"20000\" />\r\n      <workItem from=\"1590159503881\" duration=\"263000\" />\r\n      <workItem from=\"1590243173146\" duration=\"55000\" />\r\n      <workItem from=\"1590414177819\" duration=\"4330000\" />\r\n      <workItem from=\"1590421201462\" duration=\"1755000\" />\r\n      <workItem from=\"1590455326813\" duration=\"8634000\" />\r\n      <workItem from=\"1590481744258\" duration=\"4617000\" />\r\n      <workItem from=\"1590539594082\" duration=\"251000\" />\r\n      <workItem from=\"1590587594735\" duration=\"11019000\" />\r\n      <workItem from=\"1590651411257\" duration=\"8841000\" />\r\n      <workItem from=\"1590720532411\" duration=\"6108000\" />\r\n      <workItem from=\"1590741073319\" duration=\"5137000\" />\r\n      <workItem from=\"1590762977135\" duration=\"6863000\" />\r\n      <workItem from=\"1590799075839\" duration=\"742000\" />\r\n      <workItem from=\"1590850763020\" duration=\"4468000\" />\r\n      <workItem from=\"1590891304845\" duration=\"173000\" />\r\n      <workItem from=\"1590891503000\" duration=\"2887000\" />\r\n      <workItem from=\"1590932607942\" duration=\"13000\" />\r\n      <workItem from=\"1590934392497\" duration=\"382000\" />\r\n      <workItem from=\"1590939608681\" duration=\"2131000\" />\r\n      <workItem from=\"1590998454107\" duration=\"4669000\" />\r\n      <workItem from=\"1591018951188\" duration=\"9294000\" />\r\n      <workItem from=\"1591058728835\" duration=\"5311000\" />\r\n      <workItem from=\"1591106155379\" duration=\"7793000\" />\r\n      <workItem from=\"1591171114892\" duration=\"7237000\" />\r\n      <workItem from=\"1591262735329\" duration=\"3602000\" />\r\n      <workItem from=\"1591320911782\" duration=\"9055000\" />\r\n      <workItem from=\"1591344693594\" duration=\"863000\" />\r\n      <workItem from=\"1591345805655\" duration=\"705000\" />\r\n      <workItem from=\"1591366024948\" duration=\"23000\" />\r\n      <workItem from=\"1591452793736\" duration=\"1820000\" />\r\n      <workItem from=\"1591541077450\" duration=\"4467000\" />\r\n      <workItem from=\"1591601500274\" duration=\"10543000\" />\r\n      <workItem from=\"1591625489957\" duration=\"4069000\" />\r\n      <workItem from=\"1591667392419\" duration=\"7301000\" />\r\n      <workItem from=\"1591696058560\" duration=\"2587000\" />\r\n      <workItem from=\"1591712381113\" duration=\"5870000\" />\r\n      <workItem from=\"1591752319263\" duration=\"22058000\" />\r\n      <workItem from=\"1591777302238\" duration=\"7368000\" />\r\n      <workItem from=\"1591796435199\" duration=\"1449000\" />\r\n      <workItem from=\"1591800598993\" duration=\"9016000\" />\r\n      <workItem from=\"1591834944610\" duration=\"6287000\" />\r\n      <workItem from=\"1591845077758\" duration=\"15874000\" />\r\n      <workItem from=\"1591892099822\" duration=\"5813000\" />\r\n      <workItem from=\"1591918553222\" duration=\"3199000\" />\r\n      <workItem from=\"1591925445587\" duration=\"6142000\" />\r\n      <workItem from=\"1591961502280\" duration=\"3631000\" />\r\n      <workItem from=\"1591971533024\" duration=\"6971000\" />\r\n      <workItem from=\"1592035858662\" duration=\"4877000\" />\r\n      <workItem from=\"1592064618289\" duration=\"7952000\" />\r\n      <workItem from=\"1592095286253\" duration=\"7711000\" />\r\n      <workItem from=\"1592124275983\" duration=\"6474000\" />\r\n      <workItem from=\"1592142850830\" duration=\"11538000\" />\r\n      <workItem from=\"1592178492143\" duration=\"692000\" />\r\n      <workItem from=\"1592186822302\" duration=\"24155000\" />\r\n      <workItem from=\"1592229442684\" duration=\"12889000\" />\r\n      <workItem from=\"1592264344290\" duration=\"2871000\" />\r\n      <workItem from=\"1592270650498\" duration=\"23254000\" />\r\n      <workItem from=\"1592301347077\" duration=\"2334000\" />\r\n      <workItem from=\"1592317328559\" duration=\"7936000\" />\r\n      <workItem from=\"1592357173225\" duration=\"23633000\" />\r\n      <workItem from=\"1592401092054\" duration=\"15278000\" />\r\n      <workItem from=\"1592438473875\" duration=\"4528000\" />\r\n      <workItem from=\"1592446857987\" duration=\"28625000\" />\r\n      <workItem from=\"1592490188343\" duration=\"6473000\" />\r\n      <workItem from=\"1592532770949\" duration=\"20054000\" />\r\n      <workItem from=\"1592621787113\" duration=\"3764000\" />\r\n      <workItem from=\"1592671312536\" duration=\"3528000\" />\r\n      <workItem from=\"1592701028467\" duration=\"7392000\" />\r\n      <workItem from=\"1592729607359\" duration=\"1511000\" />\r\n      <workItem from=\"1592799205719\" duration=\"2493000\" />\r\n      <workItem from=\"1592817314987\" duration=\"261000\" />\r\n      <workItem from=\"1592817594089\" duration=\"4182000\" />\r\n      <workItem from=\"1592837058669\" duration=\"6623000\" />\r\n      <workItem from=\"1592869375026\" duration=\"1465000\" />\r\n      <workItem from=\"1592876026364\" duration=\"13627000\" />\r\n      <workItem from=\"1592903854998\" duration=\"4922000\" />\r\n      <workItem from=\"1592921489430\" duration=\"7022000\" />\r\n      <workItem from=\"1592955207675\" duration=\"3155000\" />\r\n      <workItem from=\"1592962522040\" duration=\"13075000\" />\r\n      <workItem from=\"1592987299558\" duration=\"7615000\" />\r\n      <workItem from=\"1592995063843\" duration=\"686000\" />\r\n      <workItem from=\"1593009232800\" duration=\"8603000\" />\r\n      <workItem from=\"1593041133743\" duration=\"4120000\" />\r\n      <workItem from=\"1593048460886\" duration=\"12188000\" />\r\n      <workItem from=\"1593065706333\" duration=\"15109000\" />\r\n      <workItem from=\"1593103311446\" duration=\"70000\" />\r\n      <workItem from=\"1593136319528\" duration=\"26381000\" />\r\n      <workItem from=\"1593186408037\" duration=\"5892000\" />\r\n      <workItem from=\"1593222396597\" duration=\"5855000\" />\r\n      <workItem from=\"1593314803396\" duration=\"1602000\" />\r\n      <workItem from=\"1593336572007\" duration=\"1255000\" />\r\n      <workItem from=\"1593339196827\" duration=\"730000\" />\r\n      <workItem from=\"1593352436610\" duration=\"1938000\" />\r\n      <workItem from=\"1593394220785\" duration=\"2328000\" />\r\n      <workItem from=\"1593575332577\" duration=\"585000\" />\r\n      <workItem from=\"1593617728708\" duration=\"210000\" />\r\n      <workItem from=\"1593619447312\" duration=\"490000\" />\r\n      <workItem from=\"1593659693768\" duration=\"814000\" />\r\n      <workItem from=\"1594103806128\" duration=\"1584000\" />\r\n      <workItem from=\"1594105692667\" duration=\"10000\" />\r\n      <workItem from=\"1594114496002\" duration=\"3047000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"2\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"499\" y=\"259\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog\" timestamp=\"1587957416617\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"499\" y=\"259\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1587957416617\" />\r\n    <state x=\"623\" y=\"323\" key=\"#com.intellij.fileTypes.FileTypeChooser\" timestamp=\"1591895487456\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"623\" y=\"323\" key=\"#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1591895487456\" />\r\n    <state x=\"690\" y=\"275\" key=\"#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog\" timestamp=\"1593186744054\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"690\" y=\"275\" key=\"#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1593186744054\" />\r\n    <state x=\"740\" y=\"275\" key=\"FileChooserDialogImpl\" timestamp=\"1594105701444\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"740\" y=\"275\" key=\"FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1594105701444\" />\r\n    <state x=\"673\" y=\"334\" key=\"NewPhpClassDialog\" timestamp=\"1592124957617\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"673\" y=\"334\" key=\"NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1592124957617\" />\r\n    <state x=\"794\" y=\"443\" key=\"NewPhpFileDialog\" timestamp=\"1593186557621\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"794\" y=\"443\" key=\"NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1593186557621\" />\r\n    <state x=\"463\" y=\"165\" key=\"SettingsEditor\" timestamp=\"1593103375221\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"463\" y=\"165\" key=\"SettingsEditor/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1593103375221\" />\r\n    <state x=\"656\" y=\"344\" key=\"com.intellij.ide.util.TipDialog\" timestamp=\"1593136351909\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"656\" y=\"344\" key=\"com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1593136351909\" />\r\n    <state x=\"758\" y=\"209\" key=\"com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser\" timestamp=\"1592988319701\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"758\" y=\"209\" key=\"com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1592988319701\" />\r\n    <state x=\"656\" y=\"252\" width=\"607\" height=\"536\" key=\"find.popup\" timestamp=\"1592279302602\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"656\" y=\"252\" width=\"607\" height=\"536\" key=\"find.popup/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1592279302602\" />\r\n    <state x=\"616\" y=\"240\" key=\"run.anything.popup\" timestamp=\"1593339299950\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"616\" y=\"240\" key=\"run.anything.popup/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1593339299950\" />\r\n    <state x=\"623\" y=\"225\" width=\"672\" height=\"678\" key=\"search.everywhere.popup\" timestamp=\"1593192072159\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"623\" y=\"225\" width=\"672\" height=\"678\" key=\"search.everywhere.popup/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1593192072159\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision ecc91c1991a50bb0e43d505009316b2d3c8a5400)
++++ .idea/workspace.xml	(date 1594132041025)
+@@ -274,10 +274,10 @@
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593186744054" />
+-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1594105701444">
++    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1594132039998">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594105701444" />
++    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594132039998" />
+     <state x="673" y="334" key="NewPhpClassDialog" timestamp="1592124957617">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules.xml	(date 1594132054040)
++++ .idea/modules.xml	(date 1594132054040)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/khangmaunhi.iml" filepath="$PROJECT_DIR$/.idea/khangmaunhi.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/misc.xml	(date 1594132054000)
++++ .idea/misc.xml	(date 1594132054000)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="JavaScriptSettings">
++    <option name="languageLevel" value="ES6" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(date 1594132054024)
++++ .idea/vcs.xml	(date 1594132054024)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/khangmaunhi.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/khangmaunhi.iml	(date 1594132053968)
++++ .idea/khangmaunhi.iml	(date 1594132053968)
+@@ -0,0 +1,42 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="WEB_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$">
++      <sourceFolder url="file://$MODULE_DIR$/app" isTestSource="false" packagePrefix="App\" />
++      <sourceFolder url="file://$MODULE_DIR$/app/Modules" isTestSource="false" packagePrefix="Modules\" />
++      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" packagePrefix="Tests\" />
++      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/barryvdh/laravel-debugbar" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/dnoegel/php-xdg-base-dir" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/inflector" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/lexer" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/dragonmantank/cron-expression" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/egulias/email-validator" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/erusev/parsedown" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/fideloper/proxy" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/fzaninotto/faker" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/hamcrest/hamcrest-php" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/jakub-onderka/php-console-color" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/jakub-onderka/php-console-highlighter" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel/framework" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel/tinker" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/league/flysystem" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/maximebf/debugbar" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/mockery/mockery" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/monolog/monolog" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/nesbot/carbon" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/nikic/php-parser" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/opis/closure" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/paragonie/random_compat" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/phpoption/phpoption" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/container" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/log" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/simple-cache" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/psy/psysh" />
++      <excludeFolder url="file://$MODULE_DIR$/vendor/ramsey/uuid" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
