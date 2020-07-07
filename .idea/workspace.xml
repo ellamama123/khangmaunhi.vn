@@ -105,12 +105,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../theme/Kmarket/index.html" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\project.vn\khangmaunhi\public\assets\frontend\fonts" />
       <recent name="D:\xampp\htdocs\project.vn\hoanmydan\storage\logs" />
       <recent name="D:\xampp\htdocs\project.vn\hoanmydan\app\Modules\Statics\Views" />
       <recent name="D:\xampp\htdocs\project.vn\hoanmydan\public\assets\frontend\fonts" />
@@ -307,6 +308,7 @@
       <workItem from="1594103806128" duration="1584000" />
       <workItem from="1594105692667" duration="10000" />
       <workItem from="1594114496002" duration="3047000" />
+      <workItem from="1594131363476" duration="298000" />
     </task>
     <servers />
   </component>
@@ -323,6 +325,10 @@
         </entry>
       </map>
     </option>
+<<<<<<< HEAD
+=======
+    <option name="oldMeFiltersMigrated" value="true" />
+>>>>>>> huy
   </component>
   <component name="WindowStateProjectService">
     <state x="499" y="259" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587957416617">
@@ -337,10 +343,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593186744054" />
+<<<<<<< HEAD
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1594133134264">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594133134264" />
+=======
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1594137345049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594137345049" />
+>>>>>>> huy
     <state x="673" y="334" key="NewPhpClassDialog" timestamp="1592124957617">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -369,9 +382,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593339299950" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1593192072159">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594137417609">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593192072159" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594137417609" />
   </component>
 </project>

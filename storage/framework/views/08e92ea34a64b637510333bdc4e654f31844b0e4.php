@@ -12,5 +12,12 @@ use App\Library\PHPDev\ThumbImg;
 	<?php echo $__env->make('Statics::block.footer', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
 <?php $__env->stopSection(); ?>
 <?php $__env->startSection('content'); ?>
+<<<<<<< HEAD
+ 
 <?php $__env->stopSection(); ?>
+=======
+
+<?php $__env->stopSection(); ?>
+>>>>>>> huy
+
 <?php echo $__env->make('Statics::layout.html', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH E:\xampp\htdocs\project.vn\khangmaunhi\app\Modules/Statics/Views/content/index.blade.php ENDPATH**/ ?>

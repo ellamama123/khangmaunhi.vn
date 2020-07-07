@@ -25,12 +25,152 @@
     url(../fonts/Roboto-Regular.svg#samsung-one-700) format("svg");
     font-weight:400; font-style:normal
 }
+@font-face{
+    font-family: Montserat-Regular;
+    src:url(../fonts/Montserrat-Regular.eot?#iefix) format("embedded-opentype"),
+    url(../fonts/Montserrat-Regular.otf) format("opentype"),
+    url(../fonts/Montserrat-Regular.woff) format("woff"),
+    url(../fonts/Montserrat-Regular.ttf) format("truetype"),
+    url(../fonts/Montserrat-Regular.svg#samsung-one-700) format("svg");
+    font-weight:400; font-style:normal
+}
 body {
-    font-family: samsung-one-400;
+    font-family: Montserat-Regular;
     font-size: 15px;
     background:#fff;
     color: #222;
     line-height: 1.42857143;
     width: 100%;
     overflow: hidden;
+}
+
+/*======== header ==========*/
+#header{
+    background: #eee7cb;
+    border-bottom: 12px solid #cb4a2a;
+    padding: 50px 0;
+}
+.hot-search{
+    display: flex;
+    float: right;
+}
+.hotline{
+    margin-right: 15px;
+    font-size: 19px;
+    color: #cc4f2f;
+    margin-top: 5px;
+}
+.hotline span{
+    font-weight: bold;
+    color: #c94a29;
+}
+.search{
+    position: relative;
+}
+.search input{
+    border-radius: 20px;
+    padding-left: 35px;
+}
+.search .icon-search{
+    background: url("http://localhost/project.vn/khangmaunhi/public/assets/frontend/img/icon-search.png") no-repeat;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-size: 18px;
+    border: none;
+    position: absolute;
+    top: 8px;
+    left: 11px;
+}
+.menu{
+    clear: both;
+}
+.navigation ul li{
+    display: inline-block;
+    vertical-align: bottom;
+    margin-right: 100px;
+}
+.navigation ul li:last-child{
+    margin-right: 0;
+}
+.navigation .logo{
+    width: 18%;
+    image-rendering: pixelated;
+}
+.navigation ul li a{
+    font-size: 17px;
+    color: #01362c;
+}
+
+
+
+/*====== footer =======*/
+#footer{
+    background: #eee7cb;
+    border-bottom: 40px solid #cb4a2a;
+    clear: both;
+    padding: 50px 0;
+}
+.icon-ft{
+    margin-left: 20px;
+}
+.title-ft{
+    color: #145c4e;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 4px 0;
+}
+.mgt-20px{
+    margin-top: 18px;
+}
+.list{
+    height: 105px;
+}
+.list ul, .text-lh p{
+    margin-bottom: 0;
+}
+.icon-lh{
+    border-top: 2px solid #ce6f51;
+    padding-top: 15px;
+}
+.icon-phone{
+    background: url("http://localhost/project.vn/khangmaunhi/public/assets/frontend/img/icon-phone.png") no-repeat;
+    display: inline-block;
+    width: 36px;
+    height: 38px;
+    margin-top: 4px;
+}
+.text-lh{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 10px;
+}
+.icon-icon{
+    float: right;
+}
+.icon-zalo{
+    background: url("http://localhost/project.vn/khangmaunhi/public/assets/frontend/img/icon-zalo.png") no-repeat;
+    display: inline-block;
+    width: 37px;
+    height: 37px;
+    margin-top: 4px;
+}
+.icon-s{
+    background: url("http://localhost/project.vn/khangmaunhi/public/assets/frontend/img/icon-s.png") no-repeat;
+    display: inline-block;
+    width: 36px;
+    height: 35px;
+    margin-top: 4px;
+}
+.icon-face{
+    background: url("http://localhost/project.vn/khangmaunhi/public/assets/frontend/img/icon-fb.png") no-repeat;
+    display: inline-block;
+    width: 18px;
+    height: 35px;
+    margin-top: 4px;
+}
+.icon-zalo, .icon-s, .icon-face{
+    vertical-align: top;
+    margin-left: 15px;
 }
