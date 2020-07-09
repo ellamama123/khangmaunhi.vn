@@ -14,4 +14,7 @@ Route::group(['middleware' => ['web'], 'prefix' => '/', 'namespace' => $namespac
 
     Route::get('/', array('as' => 'SIndex','uses' => 'StaticsController@index'));
 
+    Route::get('camnang', array('as' => 'site.pageCamnang', 'uses' => 'StaticsController@pageCamnang'));
+    Route::get('bai-viet-chi-tiet', array('as' => 'site.pageBVCT', 'uses' => 'StaticsController@pageBVCT'));
+
 });

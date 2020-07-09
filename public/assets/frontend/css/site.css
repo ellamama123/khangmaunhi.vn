@@ -1,3 +1,4 @@
+* {margin: 0;padding: 0;}
 @font-face {
     font-family: samsung-one-400;
     src: url(../fonts/samsung-one-400.eot?#iefix) format('embedded-opentype'),
@@ -173,4 +174,272 @@ body {
 .icon-zalo, .icon-s, .icon-face{
     vertical-align: top;
     margin-left: 15px;
+}
+
+/* ============== CÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂºÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©m nang =============== */
+.container {
+    padding: 0;
+}
+.content {
+    margin-top: 37px;
+}
+.content p a {
+    color: #717277;
+}
+.content .col-md-6 {
+    padding: 0;
+    padding-right: 30px;
+}
+.content h3 {
+    text-transform: uppercase;
+    color: #004232;
+    margin-bottom: 15px;
+}
+.content h4 {
+    margin-top: 28px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #004232;
+}
+.content ul li h4 {
+    font-size: 16px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #004232;
+}
+.content p.date {
+    color: #dfdfe0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.conntent p.title {
+    color: #7a7b7e;
+}
+.content ul li p.title {
+    color: #7a7b7e;
+    font-size: 10pt;
+}
+.content ul li p.date {
+    color: #dfdfe0;
+    font-size: 10px;
+    margin: 0;
+}
+.content ul li img {
+    width: 121px;
+}
+.content ul li {
+    margin-bottom: 22px;
+}
+.content .col-md-4 {
+    padding: 0;
+}
+
+.content .col-md-4 img {
+    padding-left: 16px;
+}
+
+.col-md-4 {}
+.content .col-md-8 {
+    padding : 0;
+    padding-left: 10px;
+}
+.content .col-md-6 {
+    padding: 0px;
+}
+.video-1 {
+    margin-bottom: 23px;
+}
+p.title {
+    padding-right: 60px;
+}
+.tren2 {
+    padding-top: 61px;
+}
+.duoi2 {
+    padding-top: 51px;
+}
+.col-md-4.sidebar {
+    margin-top: 61px;
+}
+.cg {
+    margin-top: 15px;
+    width: 100%;
+    height: 227px;
+    border: 1px solid black;
+}
+.kn {
+    margin-top: 15px;
+    width: 100%;
+    height: 227px;
+    border: 1px solid black;
+    margin-bottom: 90px;
+}
+/* BÀI VIẾT CHI TIẾT */
+.content2 p.duongdan {
+    margin-top: 20px;
+}
+.content2 h4 {
+    color: #477f72 ;
+}
+.content2 p.date {
+    color: #dfdfe0;
+    font-size: 14px;
+}
+.content2 p.strong {
+    font-weight: bolder;
+}
+.content2 .anh-bai-viet {
+    margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.content2 .xemthem {
+    margin-top: 22px;
+}
+.content2 .xemthem h4 {
+    font-weight: bold;
+}
+.content2 .xemthem ul li  {
+    color: #477f72 ;
+    margin-bottom: 12px;
+}
+.content2 .xemthem {
+    padding-bottom: 12px;
+    border-bottom: 1px solid red;
+}
+.content2 .noi-bat h4{ 
+    margin: 0;
+    margin-top: 20px;
+}
+.content2 .noi-bat li{ 
+    margin-top: 20px;
+}
+.content2 .noi-bat li h4{ 
+    margin-top: 0px;
+}
+.content2 .noi-bat .col-md-7{ 
+    padding: 0;
+}
+.noi-bat {
+    border-bottom: 1px solid red;
+}
+.ask h4 {
+    font-weight: bolder;
+}
+.ask {
+    
+}
+.ask input {
+    width: 100%;
+    border-radius: 2px;
+    height: 45px;   
+}
+.ask p {
+    margin-top: 10px;
+    color: #477f72 ;
+    
+}
+.ask button {
+    float: right;
+    width: 196px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #cb4a2a;
+    color: white;
+    border: none;
+    border-radius: 2px ;
+    margin: 20px 0px;
+
+}
+.kn {
+    clear: both;
+    border: none;
+    font-size: 25px;
+    color: #477f72 ;
+    font-weight: bolder;
+}
+/* ============== INDEX ================ */
+.content1 .anhbia img {
+    width: 100%;
+}  
+.content1 .anhbia {
+    margin-bottom: 40px;
+} 
+.gt .col-md-7 {
+    margin-top: 73px;
+}
+.gt .col-md-7 h3.title {
+    font-size: 21px;
+    color: #477f72;
+}
+.gt {border-bottom: 1px solid red;}
+
+.chuyen-gia h3.title {
+    color: #707f72;
+    padding-top: 9px;
+}
+.chuyen-gia .col-md-4 {
+    text-align: center;
+}
+.chuyen-gia .col-md-4 p.name {
+    color: #477f72;
+    padding-top: 14px;
+}
+.chuyen-gia {
+    border-bottom: 1px solid red;
+    padding-bottom: 11px;
+}
+
+.khach-hang h3.title {
+    color: #707f72;
+    padding-top: 9px;
+}
+.khach-hang p {
+    margin-top: 27px;
+}
+.khach-hang {
+    border-bottom: 1px solid red;
+    padding-bottom: 11px;
+}
+.dang-ky {
+    padding-top: 26px;
+}
+.dang-ky p {
+    padding-top: 23px;
+    color: #477f72;
+    padding-bottom: 10px;
+}
+.dang-ky button {
+    border-radius: 4px;
+    height: 45px;
+    width: 186px;
+    background-color: #cb4a2a;
+    border: none;
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+.dang-ky h5 {
+    font-weight: bolder;
+    color: #707f72;
+    padding-top: 9px;
+}
+.dang-ky input {
+    height: 49px;
+    width: 100%;
+}
+.dang-ky .col-md-4 p {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.dang-ky .col-md-4 p.date {
+    color: #dfdfe0;
+    font-size: 14px;
+}
+.dang-ky .col-md-4 p.title {
+    font-weight: bold;
+}
+.dang-ky .col-md-4 ul li {
+    margin-bottom: 10px;
 }

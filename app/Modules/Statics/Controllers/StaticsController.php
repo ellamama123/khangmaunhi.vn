@@ -43,4 +43,13 @@ class StaticsController extends BaseStaticsController{
             'messages'=>$messages,
         ]);
     }
+
+    public function pageCamnang(){
+
+        return view('Statics::content.pageCamnang');
+    }
+    public function pageBVCT(){
+
+        return view('Statics::content.pageBVCT');
+    }
 }
